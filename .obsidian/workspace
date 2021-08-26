@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "0fd20e8946b936e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9fbb21dc8c4fa49",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Buffer Overflow.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a89602a9124df5cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "45f4e6e63de0f1f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296cfa093c56d8e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3da85b5f0ae610ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be0f4ce3568dcb9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6b3ce42224e6de3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8476fb0a9ea03772",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Buffer Overflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f9fbb21dc8c4fa49",
+  "lastOpenFiles": [
+    "Buffer Overflow.md",
+    "SQL Injection.md",
+    "Windows Based Commands.md",
+    "SQL Commands.md",
+    "Untitled.md",
+    "Linux Based Commands.md",
+    "OSPG/SunsetMidnight/Credentials.md",
+    "OSCP Exam/10 (192.168.37.87)/proof.txt.md",
+    "OSCP Exam/20 (192.168.37.106)/Untitled.md",
+    "OSCP Exam/10 (192.168.37.87)/Untitled.md"
+  ]
+}
