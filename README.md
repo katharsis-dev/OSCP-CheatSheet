@@ -1,5 +1,7 @@
 # OSCP-CheatSheet
-Basic Commands I used during my OSCP journey
+List of common commands I used during my OSCP journey
+
+If you want to read more about my experience checkout https://katharsis.dev
 
 Note:
 These notes are taken with Obsidian which can be downloaded here: https://obsidian.md/
