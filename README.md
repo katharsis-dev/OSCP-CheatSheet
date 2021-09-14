@@ -1,5 +1,5 @@
 # OSCP-CheatSheet
-List of common commands I used during my OSCP journey
+List of common commands I used during my Offensive Security Certified Professional (OSCP) Certificate
 
 If you want to read more about my experience checkout https://katharsis.dev
 
